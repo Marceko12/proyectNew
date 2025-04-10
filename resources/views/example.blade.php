@@ -6,6 +6,7 @@
     <title>Example</title>
 </head>
 <body>
+    @include('layout.sidebar')
     <h1>hola mundo</h1>
 </body>
 </html>
